@@ -1,0 +1,9 @@
+name: Thief
+version: 1.0
+author: FaintCloudy
+main: me.faintcloudy.thief.Thief
+api-version: 1.17
+depend:
+  - ProtocolLib
+commands:
+  enable:
